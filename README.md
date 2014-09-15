@@ -9,23 +9,33 @@ and outstanding Transparent theme.
   <img src="https://raw.githubusercontent.com/jq0/jquery-3d-slider-transparent-brick/master/jquery-3d-slider-transparent-brick.jpg">
 </a>
 
-#### Dynamic Mobile-friendly Templates
-WOWSlider comes with a wide variety of carousel themes to assist guide the design and layout of your slider. Take advantage of unique control over important mobile-optimized abilities. Carousel designs andthemes can help you to produce an original and remarkable mobile-optimized experience.
+#### Affordable design
+Elegant style and layout is the primary to a good website. WOWSlider themes run the entire range of contemporary design and are created for you to regulate, modify, and change as you desire. Jump into a WOWSlider design now - it's wonderful, effective, and a fantastic choice for affordable design.
 
-#### Balance Mobile and Desktop Requirements
-Create and manage a particular slideshow that really works everywhere. One's image carousel is successfully designed for mobile-friendly surfing around and search sites. The whole corrections effectively match between personal pc and mobile-friendly variations of your articles as you may delete, update, or add components to your slider.
+#### Develop Amazing Slide show
+The WOWSlider app can help you determine goals, organize key slide show elements, and style. Discover more motivation from working demos and template collection. Develop the slide show from the ground up with support from WOWSlider instinctive interface. Whether you're totally new to web development or you're a highly skilled programmer, the WOWSlider contains slider ideas for every skill level.
 
-#### Control Expanding Mobile-friendly Traffic easily
-Mobile-ready compatibility is extremely important to any profitable website. The cross-device trying out and optimization possibilities once offered to skilled web designers and programmers are currently available to you via WOWSlider. As the online world trends ever stronger toward mobile-optimized browsing, WOWSlider can help you build modern mobile-friendly carousels and claim your piece of the mobile-friendly world.
+#### Flexibility and Personalization
+Customize a slide show by dragging and dropping new images and video clips into any configuration. Totally personalize navigation controls and shift styles to generate the exact slide show you want. Manage the options for each slide and include different elements to craft a personalized picture display experience. 
 
-#### Complete Mobile-ready Sliders
-Offer visitors a mobile-ready experience that works well any time on any device. WOWSlider guarantees your carousel load rapidly and display properly. Every generated sliders work correctly on smaller screens like mobile phones and tablets.
+#### 38-Language Interface
+Your native language apparently supported by the WOWSlider application interface. The interface has already been translated to 38 languages. This assists users that are not quite familiar with English, to efficiently and instantly start building slide shows.
 
-#### Search Engine Optimized Carousel
-WOWSlider is created with search engines in mind so purchasers can find you. It instantly optimizes the carousel and images so you'll get all you need to start ranking for search results.
+#### Generate Your Pictures Stand Out
+WOWSlider enables you to demonstrate your images in gorgeous, professional galleries and slideshows. Add or drop pictures directly to the application and apply a number of modifying and display options to improve graphical impact.
 
-#### Amazing Slider Designer
-Having your carousel working is as easy as selecting a design theme, adding your pictures, setting up effects and choosing your favorite way to manage slides. WOWSlider automatically produces a result so that you can vary as much or as little as you'd prefer, as well as the option for total CSS/HTML manage and modifying.
+#### Building A Graphic Slider Has Never Been Simple and easier
+Creating a slider with WOWSlider is distinct from anything you’ve previously dealt with. The drag & drop creator will make it extremely very easy to create a strong, professional slider without having tech talents necessary. Slider parts (words, photos and videos) are included in any slider simply by dragging & dropping them into place. Text is customized much like in a word processor. Developing your slider is done instantly, starting from within the software screen. There's not even attempt to be familiar with coding to worry about. 
 
-#### Modern Skins and Transitions
-Pick from numerous types of up-to-date and original themes, color scheme variations and great effects to build the perfect look for your slideshow. You can display featured pictures and videos, personalize fonts, controls, rate and also define photo display options to build a slider you could be very pleased to share.
+####Audio support
+Put mp3 background, amaze your readers having a attractive carousel revitalized via your beloved beats.
+
+#### Slideshow Styles
+Styles may be totally customized and altered to fit your aims. Slide show style is only limited by your imagination.
+
+#### Visual Insert-to-Page
+It is not necessary to be a scripting expert. You don't need to to find out or figure out HTML code. Easily run Insert-to-Page Wizard, then open a web page, click the location where you wish the carousel to show up: that's it. WOWSlider will take care of all the things; this truly is a no coding experience!
+
+#### Full Width Option
+In comparison with the standard box layout, with the full width option you can create your carousel in order that it will extend across the whole width of the browser your site visitors are using. This will generate the pictures be noticed.
+
