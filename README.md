@@ -1,12 +1,12 @@
-# Animated template and Parallax animation demo
+# Transparent pattern and Brick effect demo
 
-[This demo](http://wowslider.com/jquery-carousel-animated-parallax-demo.html) is a jQuery carousel with amazing Parallax effect
-and outstanding Animated design. 
+[This demo](http://wowslider.com/jquery-3d-slider-transparent-brick-demo.html) is a jQuery slideshow with beautiful Brick animation
+and outstanding Transparent theme. 
 
 [Download now](http://wowslider.com/) or see more [live demos..](http://wowslider.com/demo.html)
 
-<a href="http://wowslider.com/jquery-carousel-animated-parallax-demo.html">
-  <img src="https://raw.githubusercontent.com/jq0/jquery-carousel-animated-parallax/master/jquery-carousel-animated-parallax.jpg">
+<a href="http://wowslider.com/jquery-3d-slider-transparent-brick-demo.html">
+  <img src="https://raw.githubusercontent.com/jq0/jquery-3d-slider-transparent-brick/master/jquery-3d-slider-transparent-brick.jpg">
 </a>
 
 #### Dynamic Mobile-friendly Templates
