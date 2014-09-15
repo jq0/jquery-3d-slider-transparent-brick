@@ -8,7 +8,7 @@ and outstanding Transparent theme.
 <a href="http://wowslider.com/jquery-3d-slider-transparent-brick-demo.html">
   <img src="https://raw.githubusercontent.com/jq0/jquery-3d-slider-transparent-brick/master/jquery-3d-slider-transparent-brick.jpg">
 </a>
- 
+  
 #### Affordable design
 Elegant style and layout is the primary to a good website. WOWSlider themes run the entire range of contemporary design and are created for you to regulate, modify, and change as you desire. Jump into a WOWSlider design now - it's wonderful, effective, and a fantastic choice for affordable design.
 
