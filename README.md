@@ -1,6 +1,6 @@
 # Transparent pattern and Brick effect demo
 
-[This demo](http://wowslider.com/jquery-3d-slider-transparent-brick-demo.html) is a jQuery slideshow with beautiful Brick animation
+[This demo](http://wowslider.com/jquery-3d-slider-transparent-brick-demo.html) is a jQuery 3d slider with beautiful Brick animation
 and outstanding Transparent theme. 
 
 [Download now](http://wowslider.com/) or see more [live demos..](http://wowslider.com/demo.html)
